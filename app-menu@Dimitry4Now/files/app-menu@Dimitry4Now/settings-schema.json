@@ -1,0 +1,7 @@
+{
+    "show-icon": {
+        "type": "switch",
+        "default": true,
+        "description": "Show the application icon"
+    }
+}

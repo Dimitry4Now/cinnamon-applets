@@ -1,0 +1,7 @@
+{
+    "uuid": "quick-settings@Dimitry4Now",
+    "name": "Quick Settings",
+    "description": "A macOS-style control center: Wi-Fi and Bluetooth with network and device lists, Do Not Disturb, Night Light, Dark Mode, power mode, brightness and volume.",
+    "version": "1.0",
+    "max-instances": 1
+}

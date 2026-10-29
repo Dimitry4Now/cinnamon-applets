@@ -1,0 +1,7 @@
+{
+    "uuid": "app-menu@Dimitry4Now",
+    "name": "App Menu",
+    "description": "Shows the focused application's icon and name in the panel, macOS style, with a menu to open a new window, minimize, maximize, keep on top, move to another workspace, close or quit.",
+    "version": "1.0",
+    "max-instances": 1
+}

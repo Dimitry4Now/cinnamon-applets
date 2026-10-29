@@ -1,0 +1,40 @@
+{
+    "dark-mode-header": {
+        "type": "header",
+        "description": "Dark Mode tile"
+    },
+    "dark-mode-help": {
+        "type": "label",
+        "description": "Themes the Dark Mode tile switches between. Leave a field empty to keep that theme as it is."
+    },
+    "dark-gtk-theme": {
+        "type": "entry",
+        "default": "Mint-Y-Dark-Aqua",
+        "description": "Dark applications theme"
+    },
+    "light-gtk-theme": {
+        "type": "entry",
+        "default": "Mint-Y-Aqua",
+        "description": "Light applications theme"
+    },
+    "dark-cinnamon-theme": {
+        "type": "entry",
+        "default": "Mint-Y-Dark-Aqua",
+        "description": "Dark desktop (Cinnamon) theme"
+    },
+    "light-cinnamon-theme": {
+        "type": "entry",
+        "default": "Mint-Y-Aqua",
+        "description": "Light desktop (Cinnamon) theme"
+    },
+    "dark-icon-theme": {
+        "type": "entry",
+        "default": "",
+        "description": "Dark icon theme"
+    },
+    "light-icon-theme": {
+        "type": "entry",
+        "default": "",
+        "description": "Light icon theme"
+    }
+}
