@@ -2,6 +2,8 @@
 
 Shows the focused application's icon and name in the panel, like the app name next to the Apple menu on macOS. You always see what has focus.
 
+![App Menu](screenshot.png)
+
 Click it for:
 
 - New Window (for apps that support it)

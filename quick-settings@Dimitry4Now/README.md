@@ -2,6 +2,8 @@
 
 A macOS-style control center for the Cinnamon panel.
 
+![Quick Settings](screenshot.png)
+
 **Tiles**
 
 - **Wi-Fi**: the round icon turns Wi-Fi on or off. Clicking the rest of the tile opens the network list: connect, disconnect, and forget saved networks (click the trash icon twice). Cinnamon's own dialog asks for passwords.

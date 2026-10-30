@@ -7,6 +7,11 @@ Panel applets for the Cinnamon desktop that bring a bit of macOS to Linux Mint.
 | [Quick Settings](quick-settings@Dimitry4Now) | Control center: Wi-Fi and Bluetooth with network and device lists, Do Not Disturb, Night Light, Dark Mode, power mode, brightness and volume. |
 | [App Menu](app-menu@Dimitry4Now) | The focused app's icon and name in the panel, with window and app actions. |
 
+<p>
+  <img src="quick-settings@Dimitry4Now/screenshot.png" alt="Quick Settings" width="420">
+  <img src="app-menu@Dimitry4Now/screenshot.png" alt="App Menu" width="420">
+</p>
+
 ## Install
 
 ```bash
