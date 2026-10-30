@@ -1,0 +1,21 @@
+{
+    "section": {
+        "type": "section",
+        "description": "Calendar"
+    },
+    "show-events": {
+        "type": "switch",
+        "default": true,
+        "description": "Show events"
+    },
+    "show-week-numbers": {
+        "type": "switch",
+        "default": false,
+        "description": "Show week numbers"
+    },
+    "key-open": {
+        "type": "keybinding",
+        "default": "<Super>c",
+        "description": "Open the calendar"
+    }
+}

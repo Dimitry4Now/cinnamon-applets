@@ -1,0 +1,7 @@
+{
+    "uuid": "calendar-icon@Dimitry4Now",
+    "name": "Calendar Icon",
+    "description": "A calendar icon for the panel that opens Cinnamon's month calendar and your events. Pairs with Notification Center, which shows the clock.",
+    "version": "1.0",
+    "max-instances": 1
+}

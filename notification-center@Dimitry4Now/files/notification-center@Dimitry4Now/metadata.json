@@ -1,0 +1,8 @@
+{
+    "uuid": "notification-center@Dimitry4Now",
+    "name": "Notification Center",
+    "description": "A macOS-style clock: click it to see your notifications. A small dot shows when unread ones are waiting. Replaces Cinnamon's Notifications applet.",
+    "version": "1.0",
+    "role": "notifications",
+    "max-instances": 1
+}

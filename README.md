@@ -2,15 +2,32 @@
 
 Panel applets for the Cinnamon desktop that bring a bit of macOS to Linux Mint.
 
-| Applet | What it does |
-| --- | --- |
-| [Quick Settings](quick-settings@Dimitry4Now) | Control center: Wi-Fi and Bluetooth with network and device lists, Do Not Disturb, Night Light, Dark Mode, power mode, brightness and volume. |
-| [App Menu](app-menu@Dimitry4Now) | The focused app's icon and name in the panel, with window and app actions. |
-
-<p>
-  <img src="quick-settings@Dimitry4Now/screenshot.png" alt="Quick Settings" width="420">
-  <img src="app-menu@Dimitry4Now/screenshot.png" alt="App Menu" width="420">
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="quick-settings@Dimitry4Now"><b>Quick Settings</b></a><br>
+      <img src="docs/quick-settings.png" alt="Quick Settings"><br>
+      Control center: Wi-Fi and Bluetooth with network and device lists, Do Not Disturb, Night Light, Dark Mode, power mode, brightness and volume.
+    </td>
+    <td width="50%" valign="top">
+      <a href="app-menu@Dimitry4Now"><b>App Menu</b></a><br>
+      <img src="docs/app-menu.png" alt="App Menu"><br>
+      The focused app's icon and name in the panel, with window and app actions: new window, minimize, keep on top, move to workspace, quit.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="notification-center@Dimitry4Now"><b>Notification Center</b></a><br>
+      <img src="docs/notification-center.png" alt="Notification Center"><br>
+      The clock opens your notifications, with an unread dot and Clear All. Replaces the Notifications applet.
+    </td>
+    <td width="50%" valign="top">
+      <a href="calendar-icon@Dimitry4Now"><b>Calendar Icon</b></a><br>
+      <img src="docs/calendar-icon.png" alt="Calendar Icon"><br>
+      A calendar icon that opens Cinnamon's month calendar and your events.
+    </td>
+  </tr>
+</table>
 
 ## Install
 

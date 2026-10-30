@@ -1,0 +1,73 @@
+/* Same width and look as Quick Settings. */
+.nc-menu {
+    width: 340px;
+}
+
+.nc-view {
+    padding: 6px 10px;
+    spacing: 8px;
+}
+
+.nc-header {
+    padding: 0 4px;
+}
+
+.nc-title {
+    font-weight: bold;
+    font-size: 11pt;
+}
+
+.nc-text-button {
+    padding: 4px 8px;
+    border-radius: 8px;
+    font-size: 9pt;
+}
+
+.nc-text-button:hover {
+    background-color: rgba(128, 128, 128, 0.22);
+}
+
+.nc-scroll {
+    max-height: 520px;
+}
+
+.nc-list {
+    spacing: 8px;
+}
+
+/* Cinnamon pads notifications it hands to applets; the cards carry their own padding instead. */
+.notification-applet-padding.nc-item {
+    padding: 0;
+}
+
+/* The theme gives notifications a fixed 34em width, a blue top border and a shadow; inside the
+   list they become plain cards: 340 menu - 2 * 10 view padding - 21 scrollbar - 2 * 12 card padding. */
+#notification.nc-card {
+    width: 275px;
+    padding: 10px 12px;
+    border: none;
+    border-radius: 14px;
+    box-shadow: none;
+    background-color: rgba(128, 128, 128, 0.18);
+}
+
+#notification.nc-card:hover {
+    background-color: rgba(128, 128, 128, 0.28);
+}
+
+.nc-empty {
+    padding: 28px 0;
+    spacing: 8px;
+}
+
+.nc-footer {
+    padding-top: 2px;
+}
+
+.nc-unread-dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 4px;
+    margin-left: 6px;
+    background-color: #3584e4;
+}

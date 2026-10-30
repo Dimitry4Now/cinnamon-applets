@@ -1,0 +1,40 @@
+{
+    "clock-section": {
+        "type": "section",
+        "description": "Clock"
+    },
+    "clock-format": {
+        "type": "entry",
+        "default": "%a %b %e  %H:%M",
+        "description": "Clock format",
+        "tooltip": "strftime format, e.g. %a %b %e  %H:%M for Thu Oct 30  18:04"
+    },
+    "notifications-section": {
+        "type": "section",
+        "description": "Notifications"
+    },
+    "show-unread-dot": {
+        "type": "switch",
+        "default": true,
+        "description": "Show a dot next to the clock when there are unread notifications"
+    },
+    "ignore-transient": {
+        "type": "switch",
+        "default": true,
+        "description": "Don't keep transient notifications"
+    },
+    "keys-section": {
+        "type": "section",
+        "description": "Keyboard shortcuts"
+    },
+    "key-open": {
+        "type": "keybinding",
+        "default": "<Super>n",
+        "description": "Open notifications"
+    },
+    "key-clear": {
+        "type": "keybinding",
+        "default": "<Shift><Super>c",
+        "description": "Clear notifications"
+    }
+}
